@@ -31,7 +31,7 @@ This repo (Express-Static-Route-Starter) provides a basic Express setup for you 
 
 ### Install Express and Other NPM Packages
 
-1. Open a `Terminal` and clone `Express-Static-Route-Starter` repo from GitHub.
+1. Open a `Terminal` and clone `Express-Static-Route-Starter` repo from [GitHub](https://github.com/whypam/Express-Static-Route-Starter.git).
 2. Navigate to the root folder of the repo where you should see `package.json`.
 3. Run `npm install`, then you'll see `node_modules` folder and `package-lock.json` created.
 
