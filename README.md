@@ -1,6 +1,6 @@
 # Project: Serving Images and Videos on Express Server
 
-In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image gallery that means you can provide an URL to your friends, and they can browser the gallery on their computers or smartphones.
+In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image gallery that means you can provide an URL to your friends, and they can browse the gallery on their computers or smartphones.
 
 ## Your Task
 
@@ -12,7 +12,7 @@ In this project, you'll build a gallery to showcase images and videos that may b
 
 ## Starter Code
 
-This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Static-Route-Starter.git)) provides a basic Express setup for you to start with. `package.json` contains metadata about this project is required before publishing to npm, and also defines functional attributes of the project that npm uses to install dependencies, run scripts, and identify the entry point to the package. As you see in `package.json`, the entry point for this project is `index.js` defined to `main` attribute. You can have any name you want for the entry point, just make the file name matches with it.
+This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Static-Route-Starter.git)) provides a basic Express setup for you to start with. `package.json` contains metadata about this project is required before publishing to npm, and also defines functional attributes of the project that npm uses to install dependencies, run scripts, and identify the entry point to the package. As you see in `package.json`, the entry point for this project is `index.js` defined to `main` attribute. You can have any name you want for the entry point, just make sure the file name matches with it.
 
 ## Steps
 
@@ -84,9 +84,9 @@ This project focuses on serving images and videos on Express. After you finish, 
 - Open a browser and enter `localhost:[the port you set to listen to]`.
 - You should see `index.html`.
 - Look up your computer WiFi IP from network configuration.
-- On a smarthphone or another computer, browser to the WiFi IP with the port #, your `index.html ` should pop up.
+- On a smarthphone or another computer, browse to the WiFi IP with the port #, your `index.html ` should pop up.
 - Make sure other devices share the same WiFi.
-- If your computer is set up for a static IP, other devices should be able to brower your site from anywhere with Internet connection.
+- If your computer is set up for a static IP, other devices should be able to browse your site from anywhere with Internet connection.
 
 - An [example of Express Static Route](https://github.com/whypam/Express-Static-Route-Example.git) from GitHub.
 
