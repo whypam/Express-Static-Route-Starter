@@ -51,7 +51,7 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 
 #### Verfity Port Listener
 
-1. Navigate to root folder.
+1. Navigate to root folder of the repo where you should see `package.json`.
 2. Run `npm start`.
 3. You should see `The server is running on port [the port you set to listen to]`.
 4. Open a browser and enter `localhost:[the port you set to listen to]`.
@@ -67,7 +67,7 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 
 1. Add the content you picked above as plain HTML elements in `index.html`.
 2. Use external CSS (`style.css`) to style `index.html`.
-3. Make sure `index.html` is placed in the root folder you defined in `index.js` (Notes: this root folder may be different from the root folder this repo. This root folder defined in `index.js` is for Express to serve `index.html` 
+3. Make sure `index.html` is placed in the root folder you defined in `index.js` (Notes: This root folder is the static route folder defined in `index.js` for Express to serve `index.html`. It could be different the root folder of the repo.)
 4. Make sure `index.html` references to `style.css` correcly.
 5. For each of the items, add text content labeling the items, like titles, tags, and descriptions. You will probably find it helpful to group the item with the text in an enclosing `<div>` or `<section>`.
 6. For videos, you'll need to use `<iframe>`
