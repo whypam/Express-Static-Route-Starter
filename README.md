@@ -5,10 +5,11 @@ In this project, you'll build a gallery to showcase images and videos that may b
 ## Your Task
 
 1. Install NPM and Node.
-2. Set up an Express server.
-3. Configure the server to serve static files (images and videos in this project).
-4. Design and build a webpage with HTML and CSS for the gallery.
-5. Use JavaScript to make the gallery interactive.
+2. Install your favourite code editor.
+3. Set up an Express server.
+4. Configure the server to serve static files (images and videos in this project).
+5. Design and build a webpage with HTML and CSS for the gallery.
+6. Use JavaScript to make the gallery interactive.
 
 ## Starter Code
 
@@ -22,6 +23,10 @@ This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Stat
 2. Make sure select `LTS` version.
 3. Download the installer package for you system.
 4. Follow the instructions to install the Nodejs
+
+### Install Code Editor
+
+You may choose any code editor you like. [Visual Studio Code](https://code.visualstudio.com/download) is one of the popular ones.
 
 #### Vertify Successful Installation
 
@@ -37,9 +42,9 @@ This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Stat
 
 ### Set up Express Static Routes
 
-You'll see hints in `index.js` for setting up static routes to serve index.html, images and videos on Express. `app` is defined for you to use Express APIs.
-
-You'll need these Express APIs to set up routes and a port to listen to:
+1. Open `Express-Static-Route-Starter` repo in the editor you installed.
+2. You'll see hints in `index.js` for setting up static routes to serve index.html, images and videos on Express. `app` is defined for you to use Express APIs.
+3. You'll need these Express APIs to set up routes and a port to listen to:
 
 - `app.use()`
 - `app.listen()`
@@ -54,7 +59,7 @@ You'll need these Express APIs to set up routes and a port to listen to:
 
 ### Choose Content
 
-1. Gather a few images and videos for your gallery and upload them to the project replit.
+1. Gather a few images and videos for your gallery.
 2. You may want to create a folder for images and another one for videos.
 3. Make sure the folder names match with Express static route setting in `index.js`.
 
@@ -62,10 +67,11 @@ You'll need these Express APIs to set up routes and a port to listen to:
 
 1. Add the content you picked above as plain HTML elements in `index.html`.
 2. Use external CSS (`style.css`) to style `index.html`.
-3. Make sure `index.html` is placed in the root folder you defined in `index.js`, and `index.html` references to `style.css` correcly.
-4. For each of the items, add text content labeling the items, like titles, tags, and descriptions. You will probably find it helpful to group the item with the text in an enclosing `<div>` or `<section>`.
-5. For videos, you'll need to use `<iframe>`
-6. Add a site title, a page description, and any other text content you want to include on the page.
+3. Make sure `index.html` is placed in the root folder you defined in `index.js` (Notes: this root folder may be different from the root folder this repo. This root folder defined in `index.js` is for Express to serve `index.html` 
+4. Make sure `index.html` references to `style.css` correcly.
+5. For each of the items, add text content labeling the items, like titles, tags, and descriptions. You will probably find it helpful to group the item with the text in an enclosing `<div>` or `<section>`.
+6. For videos, you'll need to use `<iframe>`
+7. Add a site title, a page description, and any other text content you want to include on the page.
 
 ### Add JavaScript for User Interaction
 
