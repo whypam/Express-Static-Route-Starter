@@ -60,7 +60,7 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 ### Choose Content
 
 1. Gather a few images and videos for your gallery.
-2. You may want to create a folder for images and another one for videos.
+2. You may need to create a folder for images and another one for videos if you definded separate static routes and folders for serving images and videos in `index.js`.
 3. Make sure the folder names match with Express static route setting in `index.js`.
 
 ### Add the content as HTML elements
