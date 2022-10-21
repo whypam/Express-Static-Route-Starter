@@ -24,10 +24,6 @@ This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Stat
 3. Download the installer package for you system.
 4. Follow the instructions to install the Nodejs
 
-### Install Code Editor
-
-You may choose any code editor you like. [Visual Studio Code](https://code.visualstudio.com/download) is one of the popular ones.
-
 #### Vertify Successful Installation
 
 1. Open a `Terminal`.
@@ -39,6 +35,10 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 1. Open a `Terminal` and clone `Express-Static-Route-Starter` repo from [GitHub](https://github.com/whypam/Express-Static-Route-Starter.git).
 2. Navigate to the root folder of the repo where you should see `package.json`.
 3. Run `npm install`, then you'll see `node_modules` folder and `package-lock.json` created.
+
+### Install Code Editor
+
+You may choose any code editor you like. [Visual Studio Code](https://code.visualstudio.com/download) is one of the popular ones.
 
 ### Set up Express Static Routes
 
