@@ -44,7 +44,7 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 
 1. Open `Express-Static-Route-Starter` repo in the editor you installed.
 2. You'll see hints in `index.js` for setting up static routes to serve index.html, images and videos on Express. `app` is defined for you to use Express APIs.
-3. You'll need these Express APIs to set up routes and a port to listen to:
+3. You'll need these Express methods to set up routes and a port to listen to:
 
 - `app.use()`
 - `app.listen()`
